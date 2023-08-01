@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: In my journey I worked with web development from the Database to the Front-end, but I love the Back-end.
 
-- ⚡ Fun fact: **I play Bass for a Avenged Sevelfold cover band**
+- ⚡ Fun fact: **I play Bass for a Avenged Sevenfold cover band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
